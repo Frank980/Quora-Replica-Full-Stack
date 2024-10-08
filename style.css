@@ -1,0 +1,21 @@
+.navbar{
+    background-color:rgb(76, 4, 144);
+    background-color: #603f83ff;
+}
+.navbar-collapse ul li a{
+    color: white;
+}
+.navbar-collapse ul li a:hover{
+    color: black;
+}
+/* html{
+    background-color: blueviolet;
+} */
+.containerone{
+    background-color: rgb(99, 29, 165);
+    background-color: #c7d3d4ff;
+}
+
+style="width: 17rem;"
+<img src="https://source.unsplash.com/500x400/?trading" class="card-img-top pt-1 px-1"
+                        alt="...">
